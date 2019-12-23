@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Korpozim.Math", "Korpozim.Math\Korpozim.Math.csproj", "{EC6DE6D6-DFC1-49C5-AB5B-D547DE15A332}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Korpozim.Math.Tests", "Korpozim.Math.Tests\Korpozim.Math.Tests.csproj", "{22370F4B-1240-415C-840F-8B3C2361E534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6DE6D6-DFC1-49C5-AB5B-D547DE15A332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6DE6D6-DFC1-49C5-AB5B-D547DE15A332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6DE6D6-DFC1-49C5-AB5B-D547DE15A332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6DE6D6-DFC1-49C5-AB5B-D547DE15A332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22370F4B-1240-415C-840F-8B3C2361E534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22370F4B-1240-415C-840F-8B3C2361E534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22370F4B-1240-415C-840F-8B3C2361E534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22370F4B-1240-415C-840F-8B3C2361E534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C8825F-DD1B-4E63-9030-266B19423D77}
+	EndGlobalSection
+EndGlobal
