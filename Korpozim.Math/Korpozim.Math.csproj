@@ -4,6 +4,24 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>Korpozim.BasicMath</PackageId>
+    <Authors>korpozim</Authors>
+    <Company>Korpozim</Company>
+    <Description>Basic Math For DotNet</Description>
+    <Copyright>korpozim</Copyright>
+    <PackageProjectUrl>https://github.com/korpozim/Korpozim.Math</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/korpozim/Korpozim.Math</RepositoryUrl>
+    <PackageIcon>basic_math_logo.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageTags>math basic math</PackageTags>
+    <PackageReleaseNotes>Basic Math For DotNet</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\content\basic_math_logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
