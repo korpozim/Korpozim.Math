@@ -1,7 +1,9 @@
 language: csharp
 mono: none
+dist: xenial
 dotnet: 3.1
-dist: trusty
+install:
+  - dotnet restore
 script:
- - cd Korpozim.Math.Tests
- - dotnet test
+  - dotnet build
+  - dotnet test Korpozim.Math.Tests/Korpozim.Math.Tests.csproj
