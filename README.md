@@ -1,4 +1,5 @@
 [![NuGet version](https://badge.fury.io/nu/Korpozim.BasicMath.svg)](https://www.nuget.org/packages/Korpozim.BasicMath/)
+[![Build Status](https://travis-ci.org/korpozim/Korpozim.Math.svg?branch=master)](https://travis-ci.org/korpozim/Korpozim.Math)
 
 # Korpozim.Math
 
